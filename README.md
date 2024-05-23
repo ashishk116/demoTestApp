@@ -48,13 +48,12 @@ This is a React Native project built using React Native CLI, Redux for state man
 - The list is updated dynamically as the user scrolls.
 
 ## Screenshots
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-23 at 21 48 21](https://github.com/ashishk116/demoTestApp/assets/50401674/cc189f5f-3b5a-4eec-906e-c1fedb4e2297)
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-23 at 21 48 15](https://github.com/ashishk116/demoTestApp/assets/50401674/fdc871a0-137e-4fd1-90b0-1ada58ee55aa)
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-23 at 21 48 01](https://github.com/ashishk116/demoTestApp/assets/50401674/0117fe1d-8687-4ae4-bb69-862186961783)
-![Simulator Screenshot - iPhone 15 Pro - 2024-05-23 at 21 48 25](https://github.com/ashishk116/demoTestApp/assets/50401674/c7a0953a-022f-45d4-ac20-9f38b6f161ae)
+## Screenshots
 
-
-
+<img src="https://github.com/ashishk116/demoTestApp/assets/50401674/cc189f5f-3b5a-4eec-906e-c1fedb4e2297" alt="Simulator Screenshot - iPhone 15 Pro - 2024-05-23 at 21 48 21" width="300">
+<img src="https://github.com/ashishk116/demoTestApp/assets/50401674/fdc871a0-137e-4fd1-90b0-1ada58ee55aa" alt="Simulator Screenshot - iPhone 15 Pro - 2024-05-23 at 21 48 15" width="300">
+<img src="https://github.com/ashishk116/demoTestApp/assets/50401674/0117fe1d-8687-4ae4-bb69-862186961783" alt="Simulator Screenshot - iPhone 15 Pro - 2024-05-23 at 21 48 01" width="300">
+<img src="https://github.com/ashishk116/demoTestApp/assets/50401674/c7a0953a-022f-45d4-ac20-9f38b6f161ae" alt="Simulator Screenshot - iPhone 15 Pro - 2024-05-23 at 21 48 25" width="300">
 
 ## Customization
 
